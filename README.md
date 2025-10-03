@@ -6,14 +6,10 @@
 
 > I'm a **Computer Science student at NIT Raipur** who enjoys building **full-stack web applications, mobile apps, and AI-powered analytics platforms**.  I focus on **React, TypeScript, Node.js, and Kotlin** and learning **cloud computing, machine learning, and distributed systems**.
 
----
-
 ## 🔭 What I do
 - I build and maintain **full-stack web applications** — examples: [ChatApp](https://github.com/HRG-OFFICIAL/ChatApp-v2), [ApniDukaan E-commerce](https://github.com/HRG-OFFICIAL/ApniDukaan-Ecommerce).
 - I enjoy learning and writing about **real-time systems, cloud computing, and AI/ML analytics**.
 - Currently working on: **AI-powered analytics platforms and Android applications**.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -25,8 +21,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
 
 ## ⭐ Featured Projects
 
@@ -52,8 +46,6 @@ Production-ready e-commerce platform with modular React frontend and secure Node
 ![Live Demo](https://img.shields.io/badge/Live_Demo-Available-brightgreen?style=flat)
 
 End-to-end analytics platform with Python backend and React frontend. Features ML pipelines using TensorFlow/Scikit-learn and dynamic D3.js visualizations with real-time metric updates.
-
----
 
 ## 🏗️ Project Categories
 
@@ -84,8 +76,6 @@ End-to-end analytics platform with Python backend and React frontend. Features M
 |---------|------------|--------|-------------|
 | [Finance-AI](https://github.com/HRG-OFFICIAL/Finance-AI) | Python | Private | AI-powered financial analysis |
 
----
-
 ## 📈 GitHub Stats
 
 <table align="center">
@@ -104,8 +94,6 @@ End-to-end analytics platform with Python backend and React frontend. Features M
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HRG-OFFICIAL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
 ## 🏆 Achievements & Certifications
 
 - 🎓 **B.Tech Computer Science** - NIT Raipur (2022-2026) | GPA: 7.65/10.0
@@ -114,8 +102,6 @@ End-to-end analytics platform with Python backend and React frontend. Features M
 - 📱 **Android Developer Intern** - CodSoft (June 2025)
 - 🌐 **Web Development Intern** - CodSoft (July 2024)
 - 🎯 **Public Relations & Marketing Executive** - E-Cell NIT Raipur
-
----
 
 ## 📫 How to reach me
 
@@ -134,21 +120,15 @@ End-to-end analytics platform with Python backend and React frontend. Features M
   </a>
 </div>
 
----
-
 ## ⚡ Fun
 - I like: `☕ coffee` · `📚 learning new tech` · `🎮 building games` · `🤖 AI/ML projects` · `🏢 entrepreneurship`
 - Location: `📍 Raipur, Chhattisgarh, India`
 - Quote: *"Code is like humor. When you have to explain it, it's bad."*
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HRG-OFFICIAL&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/HRG-OFFICIAL?label=Followers&style=social" alt="GitHub Followers" />
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
