@@ -131,7 +131,7 @@ End-to-end analytics platform with Python backend and React frontend. Features M
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=100&section=footer" alt="Footer" />
 </div>
 
 **Thanks for visiting — feel free to say hi 👋**
