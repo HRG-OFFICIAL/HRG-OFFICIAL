@@ -69,8 +69,6 @@ End-to-end analytics platform with Python backend and React frontend. Features M
 | [ChatApp-v2](https://github.com/HRG-OFFICIAL/ChatApp-v2) | TypeScript | Private | Advanced chat application |
 | [ApniDukaan-Ecommerce](https://github.com/HRG-OFFICIAL/ApniDukaan-Ecommerce) | TypeScript | Private | E-commerce platform |
 | [Smart-Web-Scraper](https://github.com/HRG-OFFICIAL/Smart-Web-Scraper) | TypeScript | Private | Intelligent web scraping tool |
-
-<!-- Extensions -->
 | [Github-Insights-Extension](https://github.com/HRG-OFFICIAL/Github-Insights-Extension) | TypeScript | Private | GitHub analytics extension |
 | [Export-Code-as-PDF](https://github.com/HRG-OFFICIAL/Export-Code-as-PDF) | TypeScript | Private | Code to PDF converter |
 
