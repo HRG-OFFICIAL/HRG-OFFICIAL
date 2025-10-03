@@ -88,10 +88,17 @@ End-to-end analytics platform with Python backend and React frontend. Features M
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HRG-OFFICIAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRG-OFFICIAL&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="180" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HRG-OFFICIAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRG-OFFICIAL&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Pie Chart" />
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HRG-OFFICIAL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
